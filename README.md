@@ -1,6 +1,6 @@
 # ScratcHTML
 
-ScratcHTML (pronounced scratch-t-m-l) is a website for making html with a scratchblocks-like look to it.  
+ScratcHTML (pronounced scratch-t-m-l) is going to be a simple website for making HTML using scratchblocks.  
 It's currently (very, ***very***, much) a work in progress, so there may be bugs scattered around the place.
 
 ## How does it work?
